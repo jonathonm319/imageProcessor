@@ -11,5 +11,8 @@
     "url": "imageProcessor"
   },
   "author": "Jonathon Meyer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lwip": "^0.0.9"
+  }
 }
