@@ -1,0 +1,15 @@
+{
+  "name": "imageprocessor",
+  "version": "1.0.0",
+  "description": "Image processor for Samsung Images",
+  "main": "imageProcessor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "imageProcessor"
+  },
+  "author": "Jonathon Meyer",
+  "license": "ISC"
+}
